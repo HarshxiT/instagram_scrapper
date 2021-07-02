@@ -2,6 +2,8 @@
 
 Under the guidance of:- Sumeet Mallik, Anirudh Goel and pepcoding team.
 
+Duration of project- 24 hrs(1-07-21 to 2-7-21)
+
 Concepts used
 
 -Puppeteer 
